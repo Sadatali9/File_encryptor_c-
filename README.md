@@ -1,4 +1,4 @@
-#FILE ENCRYPTOR/DECRYPTOR
+# FILE ENCRYPTOR/DECRYPTOR
 **Overview**
 
 This program is a simple command-line tool that allows you to encrypt and decrypt text files using a Caesar cipher. The program uses a shift value to shift each letter in the plaintext by a certain number of positions in the alphabet.
